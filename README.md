@@ -1,19 +1,5 @@
 <div align="center">
-<samp>
-
-<p align="left">┌</p>
-
-<b>$ whoami</b><br>
-<b>I'm Oliwier Pyrzak, a programmer heading into cybersecurity.</b>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1500&color=C9D1D9&center=true&vCenter=true&width=480&height=36&lines=break+it.+understand+it.+secure+it.;no+light+mode.+ever.">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1500&color=24292F&center=true&vCenter=true&width=480&height=36&lines=break+it.+understand+it.+secure+it.;no+light+mode.+ever." width="480" height="36" alt="break it. understand it. secure it.">
-</picture>
-
-<p align="right">┘</p>
-
-</samp>
+<picture><img src="./banner.svg" width="880" alt="KRZAKU6: Oliwier Pyrzak, junior dev and cybersecurity"></picture>
 </div>
 
 <details open>
