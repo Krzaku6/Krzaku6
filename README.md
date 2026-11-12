@@ -1,5 +1,5 @@
 <div align="center">
-<picture><img src="./banner.svg" width="880" alt="KRZAKU6: Oliwier Pyrzak, junior dev and cybersecurity"></picture>
+<picture><img src="./console.svg" width="880" alt="terminal: whoami, status, break it. understand it. secure it."></picture>
 </div>
 
 <details open>
