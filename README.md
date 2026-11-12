@@ -3,7 +3,7 @@
 
 <p align="left">┌</p>
 
-<b>// krzaku6</b><br>
+<b>$ whoami</b><br>
 <b>I'm Oliwier Pyrzak, a programmer heading into cybersecurity.</b>
 
 <picture>
@@ -33,11 +33,6 @@
 &nbsp;&nbsp;I write the spec and run it like a real project: stages, a QA gate before each one ships, pull requests, clean history. The code is written by AI agents (Claude Code), one developing and one reviewing as QA, under rules I set.<br>
 › <b>PoE2 market bot</b> · Python · with another developer<br>
 &nbsp;&nbsp;Trade alerts, price checks and on-screen item detection for Path of Exile 2.
-
-<b>Experience</b><br>
-› <b>Erasmus+ internship</b> · Italy: serviced and configured computers, worked with customers in English<br>
-› <b>Paul Klacska Polska</b>: two vocational internships<br>
-› <b>INF.03</b>: passed the Polish state qualification in web applications and databases
 
 <b>Stack</b>
 
