@@ -59,14 +59,6 @@ $ echo $MOOD
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### // activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krzaku6&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 ### // looking for
 
 - First job or internship in **cybersecurity** (SOC, pentesting) or as a **junior developer**
