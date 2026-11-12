@@ -60,4 +60,4 @@ A first job or internship in cybersecurity (SOC, pentesting) or as a junior deve
 
 </details>
 
-<p align="center"><samp><sub>⛓ built in the dark.</sub></samp></p>
+<p align="center"><samp><sub>▮ built in the dark.</sub></samp></p>
