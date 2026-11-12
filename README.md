@@ -24,12 +24,21 @@
 <samp>
 
 <b>Now</b><br>
-Final year of technikum, programming technician at ZS Grójec. Building <a href="https://github.com/Krzaku6/factory-empire">factory-empire</a>, a factory / tycoon game on Roblox written in Luau: production chains, upgrades and an in-game economy. Learning Rust on the side in <a href="https://github.com/Krzaku6/rust-learning">rust-learning</a>. Next up: security tooling in Rust and Python.
+Building <a href="https://github.com/Krzaku6/factory-empire">factory-empire</a>, a factory-automation game on Roblox, written in Luau. Shipped so far: conveyor belts, tunnels and splitters, steam power, fluid and power networks, assemblers, and a save system with one-tick snapshots and restore points on Roblox DataStore. Currently on stage 5: research.
+
+<b>How it's built</b><br>
+I wrote the game spec and split the work into stages. Each stage ships only after it passes a QA gate: a written QA report plus my own manual tests in Studio. Architecture and design decisions are documented in the repo. Tooling: Rojo, Selene, StyLua, and Lune for tests outside Studio. 53 commits, 8 merged pull requests, 2 contributors.
+
+<b>How I work</b><br>
+I use AI coding tools (Claude Code) every day: one agent develops, a second one reviews as QA, and I set the rules both follow. The spec, the decisions and what gets merged are mine.
+
+<b>Also</b><br>
+Final year of technikum: programming technician (technik programista), ZS Grójec. Learning Rust in <a href="https://github.com/Krzaku6/rust-learning">rust-learning</a>, one exercise per topic, 31 commits so far. Next up: security tooling in Rust and Python.
 
 <b>Experience</b><br>
-Erasmus+ internship in Italy: computer servicing, system configuration and customer support in English.<br>
-Two vocational internships at Paul Klacska Polska.<br>
-Passed INF.03, the Polish vocational qualification in web applications and databases.
+Erasmus+ internship, Italy: serviced and configured computers and worked with customers directly, in English.<br>
+Paul Klacska Polska: two vocational internships.<br>
+INF.03: passed the Polish state qualification in web applications and databases.
 
 <b>Stack</b>
 
@@ -37,14 +46,11 @@ Passed INF.03, the Polish vocational qualification in web applications and datab
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Luau-000000?style=flat-square&logo=lua&logoColor=white" alt="Luau">
 <img src="https://img.shields.io/badge/SQL-000000?style=flat-square" alt="SQL">
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Luau-000000?style=flat-square&logo=lua&logoColor=white" alt="Luau">
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
-<b>How I work</b><br>
-Solo projects run like team ones: small commits, pull requests, clean history. I use AI coding tools (Claude Code) every day, with written rules for how the agent works in the repo. The decisions and the code I ship are mine.
 
 <b>Looking for</b><br>
 A first job or internship in cybersecurity (SOC, pentesting) or as a junior developer. Remote or hybrid, Grójec / Warsaw.
