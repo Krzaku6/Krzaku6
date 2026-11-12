@@ -24,16 +24,10 @@
 <samp>
 
 <b>Now</b><br>
-Building <a href="https://github.com/Krzaku6/factory-empire">factory-empire</a>, a factory-automation game on Roblox, written in Luau. Shipped so far: conveyor belts, tunnels and splitters, steam power, fluid and power networks, assemblers, and a save system with one-tick snapshots and restore points on Roblox DataStore. Currently on stage 5: research.
+Final year of technikum: programming technician (technik programista), ZS Grójec. Learning Rust, one exercise per topic. Next up: security tooling in Rust and Python.
 
-<b>How it's built</b><br>
-I wrote the game spec and split the work into stages. Each stage ships only after it passes a QA gate: a written QA report plus my own manual tests in Studio. Architecture and design decisions are documented in the repo. Tooling: Rojo, Selene, StyLua, and Lune for tests outside Studio. 53 commits, 8 merged pull requests, 2 contributors.
-
-<b>How I work</b><br>
-I use AI coding tools (Claude Code) every day: one agent develops, a second one reviews as QA, and I set the rules both follow. The spec, the decisions and what gets merged are mine.
-
-<b>Also</b><br>
-Final year of technikum: programming technician (technik programista), ZS Grójec. Learning Rust in <a href="https://github.com/Krzaku6/rust-learning">rust-learning</a>, one exercise per topic, 31 commits so far. Next up: security tooling in Rust and Python.
+<b>Side project</b><br>
+A factory-automation game on Roblox (private repo). I write the spec and run it like a real project: work split into stages, a QA gate before each stage ships, pull requests and a clean history. The code is written with AI agents (Claude Code), one developing and one reviewing as QA, under rules I set.
 
 <b>Experience</b><br>
 Erasmus+ internship, Italy: serviced and configured computers and worked with customers directly, in English.<br>
@@ -46,7 +40,6 @@ INF.03: passed the Polish state qualification in web applications and databases.
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Luau-000000?style=flat-square&logo=lua&logoColor=white" alt="Luau">
 <img src="https://img.shields.io/badge/SQL-000000?style=flat-square" alt="SQL">
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git">
