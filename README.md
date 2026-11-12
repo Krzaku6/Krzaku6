@@ -28,7 +28,7 @@ Final year of technikum: programming technician (technik programista), ZS Gróje
 
 <b>Side projects</b><br>
 A factory-automation game on Roblox (private repo). I write the spec and run it like a real project: work split into stages, a QA gate before each stage ships, pull requests and a clean history. The code is written with AI agents (Claude Code), one developing and one reviewing as QA, under rules I set.<br>
-A market bot for Path of Exile 2, built on top of another developer's codebase: trade alerts, price checks and on-screen item detection in Python.
+A market bot for Path of Exile 2, built together with another developer: trade alerts, price checks and on-screen item detection in Python.
 
 <b>Experience</b><br>
 Erasmus+ internship, Italy: serviced and configured computers and worked with customers directly, in English.<br>
